@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Pruebas de Mercury">
+	<test name="Casos de Registro de usuario y Reserva de vuelo">
+	<classes>
+		<class name="test.RegisterTest"/>
+		<class name="test.TestOne"/>
+	</classes>
+	</test>
+</suite>
